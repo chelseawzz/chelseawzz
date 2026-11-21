@@ -19,15 +19,7 @@
 
 ## About Me
 
-Hi, I'm Chelee! I'm a **Data Science undergraduate at Telkom University Surabaya** with hands-on experience in **data analysis, data visualization, and digitalization**. I've done internships at **PT ASABRI (Persero)** and the **Department of Marine and Fisheries of East Java Province**, where I worked on data validation, processing, and visualization.
-
-- Turn data into insights with Python, SQL, Tableau, Power BI, and Looker Studio
-- Also into web dev, database integration, and building interactive data viz projects
-- Competition winner and scholarship awardee (scroll down for the receipts)
-- Also a Master of Ceremony for 10+ events, so yes, I can code and talk
-- Wanna see the full story? Peep my **[portfolio website](https://chelseawzz.github.io/)**
-
----
+Hi, I'm Chelee! 
 
 ## Tech Stack
 
