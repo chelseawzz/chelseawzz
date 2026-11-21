@@ -19,7 +19,7 @@
 
 ## About Me
 
-Hi, I'm Chelee! I'm a **Data Science undergraduate at Telkom University Surabaya** (GPA **3.86/4.00**) with hands-on experience in **data analysis, data visualization, and digitalization**. I've done internships at **PT ASABRI (Persero)** and the **Department of Marine and Fisheries of East Java Province**, where I worked on data validation, processing, and visualization.
+Hi, I'm Chelee! I'm a **Data Science undergraduate at Telkom University Surabaya** with hands-on experience in **data analysis, data visualization, and digitalization**. I've done internships at **PT ASABRI (Persero)** and the **Department of Marine and Fisheries of East Java Province**, where I worked on data validation, processing, and visualization.
 
 - Turn data into insights with Python, SQL, Tableau, Power BI, and Looker Studio
 - Also into web dev, database integration, and building interactive data viz projects
@@ -93,61 +93,6 @@ Let's check my projects! Click each group to open it.
 </details>
 
 Full details, visuals, and live demos are on my **[portfolio website](https://chelseawzz.github.io/)**.
-
-<!--
-  Once the repo names are final, add project cards here, for example:
-  <a href="https://github.com/chelseawzz/REAL_REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chelseawzz&repo=REAL_REPO_NAME&hide_border=true" />
-  </a>
--->
-
----
-
-## Achievements
-
-<details>
-<summary><b>Click to see the receipts</b></summary>
-<br/>
-
-- **Best Presentation Award**, National Infographic Competition 2026, Universitas Sriwijaya
-- **Bronze Medal (2nd Place)**, MaHa Future Path Business Competition 2026, Universitas Brawijaya
-- **Finalist**, Smart Data Competition 2026, Universitas Syiah Kuala
-- **Finalist**, Statistics Dashboard Competition (SSDC), Universitas Sebelas Maret
-- **3rd Runner-Up**, Scientific Writing Competition (LKTI) 2025, Politeknik Negeri Semarang
-- **2nd Place**, Essay Fest 2024, Universitas Muhammadiyah Malang
-- **Best Project Web Scraping**, Digistar Club Telkom Indonesia
-- **Top 5 Best Business Product**, AIESEC Future Leader
-- **DJITU Scholarship Awardee 2024**, Yayasan Khouw Kalbe
-- **Mentor**, Dolanan Data 2025
-- **Speaker**, DJITU Scholarship Socialization 2025
-- **Master of Ceremony**, Jelajah Kuliah 2024 and 2026
-
-</details>
-
----
-
-## Experience
-
-<details>
-<summary><b>Where I've been working and leading</b></summary>
-<br/>
-
-**Work**
-- **Data & Digitalization Intern**, PT Asabri (Persero) Malang
-- **Data Analyst & Web Development Intern**, Dinas Kelautan dan Perikanan Provinsi Jawa Timur
-
-**Organization**
-- **Statistics Agent**, Statistics Center (BPS x Telkom University Surabaya)
-- **Staff of Student Welfare Advocacy Ministry**, Student Executive Board (led a scholarship webinar for 100+ participants)
-- **Treasurer**, Student General Election Committee
-- **Administrative Assistant**, Community Service Program
-
-**Public speaking and events**
-- Master of Ceremony for 10+ events: Mental Health Webinar, PKKMB Committee Training 2025, Pekan Ilmiah Mahasiswa TUS 2025, Data Science Guest Lecture, and Sharing Session with the former Chancellor of Telkom University
-- Treasurer, Mental Health Seminar 2025
-- Moderator, Young Staff Training Program
-
-</details>
 
 ---
 
