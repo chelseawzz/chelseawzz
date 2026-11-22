@@ -15,12 +15,6 @@
 
 </div>
 
----
-
-## About Me
-
-Hi, I'm Chelee! 
-
 ## GitHub Stats
 
 <div align="center">
